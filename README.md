@@ -1,5 +1,5 @@
 # POC-ExFlushTb
-A POC for monitoring Tb.
+A POC for monitoring Tb. This code is not neat, it's just a POC.
 
 ![image](https://github.com/backengineering/POC-ExFlushTb/assets/13917777/969792a5-7c6d-4e43-afba-71b56eabd5bc)
 
